@@ -1,6 +1,6 @@
 # EyesOnMe - Describe the Picture for You
 
-JanTune is a mobile-based application designed to detect heart diseases. In addition, it offers additional features such as providing recommendations for the nearest hospitals based on the user's location. By leveraging this application, we aim to bridge the gap in healthcare services and bring essential health information to the fingertips of all.
+EyesOnMe is an application designed to assist visually impaired people by serving as a simple visual assistant. It uses an image captioning approach to provide real-time descriptions of objects, scenes, or situations around the user through the device's camera. This app aims to enhance the independence and quality of life of visually impaired individuals by offering accessible visual support without requiring specialized hardware, promoting ease of use and inclusivity in the digital era.
 
 ## Our project team members:
 
