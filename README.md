@@ -2,7 +2,7 @@
 
 # EyesOnMe
 
-![EyesOnMe Logo](path/to/folder/Asset of Application/Final_logo.png)
+![Image](Asset of Application/Final_logo.png)
 
 # EyesOnMe - Describe the Picture for You
 
