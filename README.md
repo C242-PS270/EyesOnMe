@@ -2,7 +2,7 @@
 
 # EyesOnMe
 
-![Image](Asset of Application/Final_logo.png)
+![Image](Asset_of_Application/Final_logo.png)
 
 # EyesOnMe - Describe the Picture for You
 
