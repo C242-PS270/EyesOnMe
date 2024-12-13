@@ -1,4 +1,4 @@
-# Documentation for the Caption Generation API
+# Documentation for the Caption Generation API - EyesOnMe
 
 ## Introduction
 Dokumentasi ini menjelaskan API untuk fitur Caption Generation pada aplikasi, termasuk cara berinteraksi dengan endpoint API yang tersedia. API ini digunakan untuk mengunggah gambar, menghasilkan deskripsi dari gambar (caption), dan menyimpan metadata terkait ke Google Cloud Storage dan Firestore.
