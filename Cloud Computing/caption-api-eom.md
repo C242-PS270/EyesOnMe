@@ -1,7 +1,7 @@
 # Documentation for the Caption Generation API
 
 ## Introduction
-Dokumentasi ini menjelaskan API untuk fitur Caption Generation pada aplikasi, termasuk cara berinteraksi dengan endpoint API yang tersedia. API ini digunakan untuk mengunggah gambar, menghasilkan deskripsi (caption), dan menyimpan metadata terkait ke Google Cloud Storage dan Firestore.
+Dokumentasi ini menjelaskan API untuk fitur Caption Generation pada aplikasi, termasuk cara berinteraksi dengan endpoint API yang tersedia. API ini digunakan untuk mengunggah gambar, menghasilkan deskripsi dari gambar (caption), dan menyimpan metadata terkait ke Google Cloud Storage dan Firestore.
 
 ### Catatan:
 - Tipe data:
@@ -75,4 +75,4 @@ Endpoint ini digunakan untuk menghasilkan caption dari gambar yang diunggah. Cap
   ```
 
 # Kesimpulan
-API ini memungkinkan pengguna untuk mengunggah gambar dan mendapatkan deskripsi otomatis yang dihasilkan oleh model pembelajaran mesin. Metadata setiap gambar disimpan di Firestore untuk keperluan pencatatan dan pengelolaan data lebih lanjut.
+API ini memungkinkan pengguna untuk mengunggah gambar dan mendapatkan deskripsi otomatis yang dihasilkan oleh model machine learning. Metadata setiap gambar disimpan di Firestore untuk keperluan pencatatan dan pengelolaan data lebih lanjut.
