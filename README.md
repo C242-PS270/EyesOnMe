@@ -24,7 +24,7 @@ EyesOnMe is an application designed to assist visually impaired people by servin
 
 # Documentation
 
-API documentation
+API documentation :
 
 ## Additional Notes:
 - Documentation for user login has not been created yet.
