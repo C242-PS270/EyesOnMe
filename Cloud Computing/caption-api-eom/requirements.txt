@@ -1,0 +1,10 @@
+Flask
+tensorflow
+pandas
+firebase-admin
+Pillow
+numpy
+gunicorn
+google-cloud-storage
+google-cloud-core
+google-cloud-firestore
