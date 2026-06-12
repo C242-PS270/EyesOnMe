@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.EyesOnMe" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="android:statusBarColor">@color/second</item>
+    </style>
+
+    <style name="Theme.EyesOnMe" parent="Base.Theme.EyesOnMe" />
+    <style name="MoonFabStyle" parent="">
+        <item name="cornerSize">50%</item>
+    </style>
+</resources>

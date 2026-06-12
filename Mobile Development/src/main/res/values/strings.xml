@@ -1,0 +1,111 @@
+<resources>
+    <string name="app_name">EyesOnMe</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="eyesonme_title">EyesOnMe</string>
+    <string name="imajinasikan_penglihatanmu">Imagine Your Vision</string>
+    <string name="all_categories">ALL</string>
+    <string name="tour_categories">Tour</string>
+    <string name="vehicle_categories">Vehicle</string>
+    <string name="object_categories">Object</string>
+    <string name="food_categories">Food</string>
+    <string name="konten_favoritmu">Your Favorite</string>
+    <string name="listen_btn">\t\t\t\tListen\t\t\t\t\t</string>
+    <string name="hasil">Result</string>
+    <string name="detail_foto">Photo Detail</string>
+    <string name="retake_picture">Retake Picture</string>
+    <string name="process_btn">Process</string>
+    <string name="fashion">Fashion</string>
+    <string name="no_favorite_images">No favorite images</string>
+
+    <string-array name="tour">
+        <item>Borobudur Temple</item>
+        <item>Pink Beach Lombok</item>
+        <item>Way Kambas</item>
+        <item>Raja Ampat</item>
+    </string-array>
+
+    <string-array name="tour_data_description">
+        <item>
+            This image shows a tourist wearing blue, sunglasses, not forgetting his bucket hat and ethnic scarf taking a selfie with the beautiful Borobudur temple and the green expanse of the grass park in the very bright and hot weather. Behind the right side of this person are many other groups of tourists and guided by a tour guide. And on the left side of the tourist are many other groups of tourists wearing umbrellas about to enter the temple area. From the photo, it illustrates how magnificent and beautiful the Borobudur temple is located in Magelang, Central Java, so that it continues to be visited by tourists from various regions.
+        </item>
+        <item>
+            This image shows a unique beach view, where this beach has pink sand. Seen in the picture, someone is playing in the water and feeling the fresh sea breeze. The view in the picture shows the beauty offered by this beach, not only the unique color of the sand, but the blue sea water and the towering cliffs around the beach are unique in themselves that can attract tourists to visit this beach located in Lombok.
+        </item>
+        <item>
+            This picture shows a girl sitting under the grass while playing a ukulele on a stretch of grass with six elephants playing in the background. It seems that the place in this picture shows a national park, namely Way Kambas as a place for elephant conservation. The picture shows a warm and pleasant atmosphere, no wonder many tourists visit the Way Kambas National Park located in East Lampung.
+        </item>
+        <item>
+            The picture shows a woman dressed in white ethnic clothes on a balcony/rooftop made of wood in the corner of the fence enjoying the view called "Sepenggal Surga" aka Raja Ampat. It appears in the picture that this place has a cluster of islands and coral clusters and the clear blue waters of the Papuan sea increasingly provide a comfortable, peaceful, serene atmosphere like in heaven, as its nickname.
+        </item>
+    </string-array>
+
+    <string-array name="vehicle">
+        <item>Tesla Model Y Car</item>
+        <item>Maung V3 Garuda Limousin</item>
+        <item>Ehang Flying Taxi 216</item>
+        <item>Hoverboard</item>
+    </string-array>
+
+    <string-array name="vehicle_data_description">
+        <item>
+            The picture shows a very cool black matte Tesla Model Y car that displays its dashing aura parked on an asphalted area surrounded by a forest fortified by the surrounding walls. The car is a very smart electric car that can do self-driving or autopilot. Even though it has smart features like that, it is not recommended to rely on this feature as the main controller in driving for the safety of its users. This future smart car is in great demand by many people, no wonder the sales graph of this car is very high.
+        </item>
+        <item>
+            The picture shows a mighty white car unit. It seems that the car has a red plate with the words Indonesia 1, indicating that the car is the official car of the Indonesian President. Yes, the car is the Maung V3 Garuda Limousin. This car, produced by the nations children, was chosen by the Indonesian President Prabowo as the official car of the President. It looks very dashing and luxurious like a combat car that is ready to cross various terrains.
+        </item>
+        <item>
+            The picture shows the latest innovation in the world of vehicles, namely the white Flying Taxi ehang 216 parked on a pad in a park. This vehicle is an innovation of a drone and helicopter, with 16 propellers or 8 pairs of propellers as the driving force for this vehicle to fly.
+            The steering of this vehicle is inside the capsule. This vehicle is very interesting because of its uniqueness, but this vehicle has not been sold freely, there must be certain standards for this vehicle to be said to be worthy of operating in Indonesia.
+        </item>
+        <item>
+            The picture shows a blonde woman wearing a black shirt, jeans and white shoes complete with a blue bag on her shoulder and a flannel shirt tied around her waist riding a vehicle called a "Hoverboard" on the streets of a city, with a very beautiful background, namely the view of buildings in a city seen from the streets above the city. Yes, the hoverboard is a vehicle that is already familiar because of its uniqueness. This Hoverboard is an innovation of a personal transportation in the form of a motorized board with two wheels, which can balance itself. Unexpectedly, this Hoverboard has many enthusiasts, even to the point of having a community and being used as a fun hobby.
+        </item>
+    </string-array>
+
+    <string-array name="fashion">
+        <item>Summer Outfit For Men’s</item>
+        <item>Winter Outfit Men</item>
+        <item>Winter Outfit for Women</item>
+        <item>Skena Outfit for Hijab Women</item>
+    </string-array>
+
+    <string-array name="fashion_data_description">
+        <item>
+            The picture shows 2 men wearing very cool and fashionable summer clothes, both of them are wearing a White Chambray Shirt, which is rolled up on the sleeves. This shirt has a light and cool structure or nature. Can be applied in various styles such as smart look, smart casual, and casual.
+            It appears in the picture that the two men are using different styles and accessories as a complement, the man on the left uses this shirt combined with Lightweight jeans, and a leather belt and a sun hat. While the man on the right uses the shirt only combined with off-white chinos and sunglasses, but both show very cool and fashionable summer clothes.
+        </item>
+        <item>
+            The picture shows a man with his winter clothes in an old European-style building. The use of a Cream-colored Hoodie and Bomber Jacket as an Outer and Long black pants and Shoes that match the hoodie add a fashionable impression to this man. Looks very warm and suitable for use as winter clothes.
+        </item>
+        <item>
+            The picture shows a girl posing in her winter outfit in front of a bakery. The outfit is very suitable for the girl and shows that it is warm to wear even though she is outdoors. The combination of a brown blazer and a gray scarf wrapped around her neck and a black bag completes this girls outfit. Although it looks simple, only combined with black leggings and pink shoes, this girl is very matching with her winter outfit.
+        </item>
+        <item>
+            The picture shows a woman wearing a hijab who appears in her Skena style in a stair corridor. This woman wears a black hijab, black cuffs with an oversized white shirt as an outer layer. Combined with her black cargo pants which show that this woman is increasingly skena. The use of accessories that match the color of her outfit and a pendant necklace that gives a fashionable and very skena impression.
+        </item>
+    </string-array>
+
+    <string-array name="food">
+        <item>Tahu Gejrot</item>
+        <item>Tape Sticky Rice</item>
+        <item>Wedang Uwuh</item>
+        <item>Butterfly Flower Drink</item>
+    </string-array>
+
+    <string-array name="food_data_description">
+        <item>
+            The picture shows a typical Cirebon food, namely Tahu Gejrot. In the picture, this dish is served with pieces of hollow brown tofu, plus ground garlic, shallots, cayenne pepper, and tamarind water as the sauce.
+            This dish is usually served using a small plate made of clay, it is said that using this plate will add flavor to eating it. Tahu gejrot is one of the dishes that is often sought after when visiting Cirebon, West Java.
+        </item>
+        <item>
+            The picture shows a food like sticky rice with guava leaves in a blue container on a wooden table. It is known that the food is Tape Ketan. This food looks like a lump of sticky rice that is usually wrapped in guava leaves. This snack is a typical souvenir from Kuningan, West Java. It has a sweet and slightly sour taste from the fermentation of tape yeast. This food is very popular with many people because it has a unique and delicious taste.
+        </item>
+        <item>
+            The picture shows a drink in a glass served with various spices such as ginger, sappanwood, cloves, rock sugar, dried cinnamon shavings, lemongrass, cardamom, dried nutmeg, star anise and others. This drink is usually served warm and is an alternative to warm the body and also increase body immunity. Because of its benefits, this drink is often made by many people, especially in dealing with unfavorable weather like this.
+        </item>
+        <item>
+            The picture shows a drink in a glass that looks very refreshing and tempting, complete with lemongrass and lemon stalks as garnish, and several butterfly pea flowers which show that the drink is made from butterfly pea flowers as the main ingredient and gives a purplish blue color that attracts anyones appetite to drink it. This drink is an innovation in the world of drinks, and is often found in restaurants and cafes.
+        </item>
+    </string-array>
+</resources>

@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "349085248843",
+    "firebase_url": "https://eyes-on-me-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "eyes-on-me",
+    "storage_bucket": "eyes-on-me.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349085248843:android:1582cf3e2b882825e60cce",
+        "android_client_info": {
+          "package_name": "com.capstone.eyesonme"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApqDX7CIStxhhe4XBD7YSpPmiE1E0V7Is"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:349085248843:android:e3ac258b839d879be60cce",
+        "android_client_info": {
+          "package_name": "com.eyesonme.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApqDX7CIStxhhe4XBD7YSpPmiE1E0V7Is"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
